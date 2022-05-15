@@ -9,16 +9,16 @@ This project integrates two files that will generate a digital wallet, access Et
 * Review the transaction hash code associated with the validated blockchain transaction.
 
 
-### Technologies
+## Technologies
 
 This project uses the following libraries and dependencies:
 + [**Anaconda**](https://docs.anaconda.com/): an open source package and environment management system.
 + [**Python**](https://www.python.org/): is a programming language that offers a vast modules and libraries such as dataclass, typing, hashlib, datetime, and much more.
 + [**requests**](https://docs.python-requests.org/en/latest/user/install/#install): HTTP library for Python. 
 + [**web3**](https://web3py.readthedocs.io/en/stable/quickstart.html#installation): a Python library for interacting with Ethereum. Help with sending transactions, interacting with smart contracts, reading block data, and a variety of other use cases.
-+ [**eth-tester**]
-+ [**mnemonic**]
-+ [**bip44**]
++ [**eth-tester**](https://pypi.org/project/ethereum-tester/0.1.0a4/): a Python library that provides access to the tools we’ll use to test Ethereum-based applications.
++ [**mnemonic**](https://pypi.org/project/mnemonic/): a Python implementation for generating a 12- or 24-word mnemonic seed phrase based on the BIP-39 standard.
++ [**bip44**](https://pypi.org/project/bip44/): a Python implementation for deriving hierarchical deterministic wallets from a seed phrase based on the BIP-44 standard.
 + [**Ganache**](https://trufflesuite.com/docs/ganache/): a personal blockchain for repid Ethereum and Corda distributed application development. Used in development cycle. 
 + [**Streamlit**](https://docs.streamlit.io/library/get-started): a Python library that works only with Python files (.py files). It quickly turns Python scripts into shareable web apps. For this application we will create a user-friendly webpage interface for a blockchain. 
 
@@ -39,7 +39,7 @@ Set up missing Python modules and libraries click on any of the links associated
 
 
 
-### Troubleshooting Installation
+## Troubleshooting Installation
 Troubles with installation? Try the following:
 
 
@@ -56,3 +56,23 @@ Update Conda Environment:
 
 For more troubleshooting tips, click on link https://web3py.readthedocs.io/en/stable/troubleshooting.html.
 
+
+## Usage
+Option 1: 
+1. Click on the link to directly use the Streamlit web interface
+
+  **OR**
+2. Activate your local working environment
+3. Clone the repository `https://github.com/leighbadua/fintech_finder.git` 
+4. From the repo launch `fintech_finder.py` by typing the following into the terminal, 
+    `streamlit run fintech_finder.py`
+    
+![streamlit_main](https://user-images.githubusercontent.com/96001018/168468902-918008c2-de86-424d-be0b-781138c7e35f.jpg)
+
+### Features
+
+## Contributors
+Leigh Anne Badua leighbadua@gmail.com
+
+## License
+MIT
