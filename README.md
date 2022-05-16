@@ -62,14 +62,38 @@ Option 1:
 1. Click on the link to directly use the Streamlit web interface
 
   **OR**
+  
 2. Activate your local working environment
 3. Clone the repository `https://github.com/leighbadua/fintech_finder.git` 
 4. From the repo launch `fintech_finder.py` by typing the following into the terminal, 
     `streamlit run fintech_finder.py`
-    
+  
+  
+### Features
+
+Fintech_finder via Streamlit
+
 ![streamlit_main](https://user-images.githubusercontent.com/96001018/168468902-918008c2-de86-424d-be0b-781138c7e35f.jpg)
 
-### Features
+
+Example of a transaction
+
+![sidebar_1](https://user-images.githubusercontent.com/96001018/168524705-fdb9f846-3630-4c68-b9d9-637a8ca9830b.jpg)
+
+
+Account balance in Streamlit sidebar
+
+![streamlit_sidebar_balance](https://user-images.githubusercontent.com/96001018/168524728-c30546a3-ac9c-4ee4-b24c-949a720ba315.jpg)
+
+
+![validated_transaction_hash](https://user-images.githubusercontent.com/96001018/168524970-a6c3ddda-e6fc-4a15-a0b5-126c9e370b7c.jpg)
+
+
+Transaction in Ganache
+
+![ganache_transaction](https://user-images.githubusercontent.com/96001018/168524143-ded3eb54-aa42-41ff-a4da-9ed195d81278.jpg)
+
+
 
 ## Contributors
 Leigh Anne Badua leighbadua@gmail.com
