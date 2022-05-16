@@ -73,15 +73,18 @@ Option 1:
 
 Fintech_finder via Streamlit
 
+User can scroll through the given fintech candidates in the main window and determine which fintech professional they would like to work with. 
+
 ![streamlit_main](https://user-images.githubusercontent.com/96001018/168468902-918008c2-de86-424d-be0b-781138c7e35f.jpg)
 
+The user can select the fintech from the dropdown box, and enter the number of hours in which they would need the person's service. 
 
-Example of a transaction
+Example of a transaction shown below:
 
 ![sidebar_1](https://user-images.githubusercontent.com/96001018/168524705-fdb9f846-3630-4c68-b9d9-637a8ca9830b.jpg)
 
 
-Account balance in Streamlit sidebar
+Account balance in Streamlit sidebar once transaction is made. 
 
 ![streamlit_sidebar_balance](https://user-images.githubusercontent.com/96001018/168524728-c30546a3-ac9c-4ee4-b24c-949a720ba315.jpg)
 
@@ -89,10 +92,15 @@ Account balance in Streamlit sidebar
 ![validated_transaction_hash](https://user-images.githubusercontent.com/96001018/168524970-a6c3ddda-e6fc-4a15-a0b5-126c9e370b7c.jpg)
 
 
-Transaction in Ganache
+Transaction History in Ganache
 
 ![ganache_transaction](https://user-images.githubusercontent.com/96001018/168524143-ded3eb54-aa42-41ff-a4da-9ed195d81278.jpg)
 
+
+
+Subsequential Transactions
+
+<img width="1050" alt="image" src="https://user-images.githubusercontent.com/96001018/168526613-52c33ca1-f2fa-494a-a406-d95d09f81363.png">
 
 
 ## Contributors
